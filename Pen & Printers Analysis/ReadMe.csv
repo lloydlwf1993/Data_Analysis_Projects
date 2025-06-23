@@ -1,1 +1,6 @@
-# Data Analysis of the Pen & Printers' New Products Sales using Python
+# This is the ReadMe section for the Pen & Printers Analysis Folder
+
+1. The product_sales.csv file contains the dataset used for the analysis.
+2. The PDF file of Pen & Printers New Product Sales Strategy Report details the findings of the analysis.
+3. The pen_andprinters.ipynb file contains the Python code that produces the report.
+4. The Analysis Instructions PDF file contains the analysis instructions and details about the product_sales.csv dataset.
